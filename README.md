@@ -32,3 +32,9 @@ Jika sudah menginstall (windows) langkah selanjutnya adalah:
 #### Penutup
 
 sekian
+
+## notes
+coming soon
+- formulir pengajuan sidang
+- formulir revisi laporan kerja profesi
+- formulir tanda terima hasil akhir laporan kerja profesi
